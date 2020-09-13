@@ -3,7 +3,6 @@
 
 #include "tgbot/types/Chat.h"
 #include "tgbot/types/User.h"
-#include "tgbot/types/Message.h"
 #include "tgbot/types/Audio.h"
 #include "tgbot/types/Document.h"
 #include "tgbot/types/Animation.h"
